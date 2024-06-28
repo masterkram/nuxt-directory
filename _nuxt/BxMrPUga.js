@@ -1,1 +1,0 @@
-import"./ERbb2ACt.js";import{r as t}from"./BHtTgFhN.js";import{l as r,c as o,e as s}from"./DX-JpS6t.js";import"./Dnd51l0P.js";const c={},n={class:"text-center pt-20 pb-10 gap-8"};function a(e,p){return o(),s("div",n,[t(e.$slots,"default")])}const m=r(c,[["render",a]]);export{m as default};
