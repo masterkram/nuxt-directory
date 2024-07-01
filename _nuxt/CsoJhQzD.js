@@ -1,0 +1,1 @@
+import"./CnRDKYi2.js";import{r as t}from"./B4Y24CKk.js";import{l as r,c as o,e as s,f as n}from"./Cud426ir.js";import"./Dnd51l0P.js";const a={},c={class:"text-center pt-20 pb-10 gap-8"};function l(e,p){return o(),s("div",c,[n("h1",null,[t(e.$slots,"default",{unwrap:"h1"})]),t(e.$slots,"description")])}const _=r(a,[["render",l]]);export{_ as default};
